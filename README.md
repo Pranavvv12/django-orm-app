@@ -33,6 +33,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+![orm](https://user-images.githubusercontent.com/121292280/229843877-c0b86309-679b-4539-92c8-a95d1a967db7.png)
 
 ## RESULT
 Thus the project is developed to have Student information database.
