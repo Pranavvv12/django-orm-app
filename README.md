@@ -18,12 +18,21 @@ Include your ER diagram here
 Write your own steps
 
 ## PROGRAM
-
-Include your code here
+```python
+from django.db import models
+from django.contrib import admin
+# Create your models here.
+class Student (models.Model):
+    name=models.CharField(max_length=100)
+    age=models.IntegerField()
+    email=models.EmailField()
+    referencenumber=models.CharField(max_length=20,help_text="reference number")
+    department=models.CharField(max_length=100)
+class StudentAdmin(admin.ModelAdmin):
+    list_display=('name','age','email','referencenumber','department')
+```
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
-
-
 ## RESULT
+Thus the project is developed to have Student information database.
