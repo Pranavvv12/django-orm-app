@@ -10,13 +10,13 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-clone the repository to thea idea. start a new inside the project folder
+Clone the repository to thea idea. start a new inside the project folder.
 
 ### STEP 2:
-type the appropriate code for your table and provide appropriate datatypes to the columns
+Type the appropriate code for your table and provide appropriate datatypes to the columns.
 
 ### STEP 3:
-create a report about project in readme.md file and upload the django-orm-app folder to your remote repository
+Create a report about project in readme.md file and upload the django-orm-app folder to your remote repository.
 
 ## PROGRAM
 ```python
@@ -37,4 +37,4 @@ class StudentAdmin(admin.ModelAdmin):
 ![orm](https://user-images.githubusercontent.com/121292280/229843877-c0b86309-679b-4539-92c8-a95d1a967db7.png)
 
 ## RESULT
-Thus the project is developed to have Student information database.
+Thus,the project is developed to have Student Information Database.
