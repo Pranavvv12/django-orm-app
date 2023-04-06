@@ -10,7 +10,7 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-Clone the repository to thea idea. start a new inside the project folder.
+Clone the repository to Theia IDE.Start a new inside the project folder.
 
 ### STEP 2:
 Type the appropriate code for your table and provide appropriate datatypes to the columns.
